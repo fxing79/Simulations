@@ -1,5 +1,5 @@
 # Simulations
-collection of all my finan-simulation experiments
+collection of my finan-simulation experiments
 
 --position--
 in the long run only the green line survive;
